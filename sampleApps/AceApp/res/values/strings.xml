@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AceAppActivity!</string>
+    <string name="app_name">AceApp</string>
+    <string name="mapkey">0E-MMF8FjIAgWjB9o2cW-RwOauGbT6CzXPFRbQQ</string>
+    <string name="name">Gokul Apps</string>
+
+</resources>
